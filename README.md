@@ -79,6 +79,3 @@ retailedge/
 └── package.json
 ```
 
-## License
-
-MIT
